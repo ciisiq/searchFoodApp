@@ -1,0 +1,43 @@
+## To do ##
+
+- Create the basic page HTML:
+    - Header
+        - Menu <sidebar> with Home and all recipes 
+        - Logo
+    - Main
+        RIGTH
+        - Title
+        - p tag
+        - Input
+        - Button
+        LEFT
+        - Image
+        BOTTOM
+        - p tag for results
+        - container recipes found (cards)
+    - Footer
+        - <p> with copyright
+    - Conect this page to the Javascript file
+
+- Conect API to the front-end
+    - Make a fetch request
+    - do test with console to se if it's working
+
+- Logic in JS 
+    - Expand menu sidebar
+    - popup with recipes or open another page
+    - show the carrossel with recipes
+    - get the user request (igredients)
+
+- Styling CSS
+    - Conect this file to the Javascript and html
+    - Aply the basic colour scheme
+    - Responsive 
+    - Dark mode
+
+
+## EXTRAS ##
+- Testing
+- Acessibility
+- Filter option
+- Rebuild in ReactJS
